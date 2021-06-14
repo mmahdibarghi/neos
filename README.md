@@ -1,2 +1,2 @@
 # neos
-just a simple but useful shell for window (my fop project)
+just a simple but useful shell for windows (my fop project)
